@@ -46,5 +46,3 @@ not now,
 
 - **Telegram:** @suidade
 - **Email:** goryamatsui@gmail.com
-
----
