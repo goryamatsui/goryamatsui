@@ -48,7 +48,3 @@ not now,
 - **Email:** goryamatsui@gmail.com
 
 ---
-
-<div align="center">
-  <i>Zero is not emptiness. It's the starting point.</i>
-</div>
